@@ -20,3 +20,12 @@ https://www2.ripc.org/portal/notice/ripcNoticeList.do
 
 나라장터-입찰공고-디자인(용역), 제품디자인(용역), 브랜딩(용역), rhino(용역)
 http://www.g2b.go.kr
+
+#### 실행방법
+```python
+python main.py 
+```
+
+#### 사용자설정
+path.txt 에 스크래핑한 정보를 저장하고 싶은 폴더의 path를 기입한다.
+config.json 파일 설정을 수정한다.
