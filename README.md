@@ -26,6 +26,6 @@ http://www.g2b.go.kr
 python main.py 
 ```
 
-#### 사용자설정
-path.txt 에 스크래핑한 정보를 저장하고 싶은 폴더의 path를 기입한다.
-config.json 파일 설정을 수정한다.
+#### 사용자 설정
+1. path.txt 에 스크래핑한 정보를 저장하고 싶은 폴더의 path를 기입한다.
+2. config.json 파일 설정을 수정한다.
