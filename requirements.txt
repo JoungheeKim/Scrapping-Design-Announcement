@@ -10,7 +10,7 @@ fake-useragent==0.1.11
 html5lib==1.0.1
 idna==2.8
 jdcal==1.4
-lxml==4.3.0
+lxml==4.9.1
 numpy==1.16.0
 openpyxl==2.5.12
 pandas==0.23.4
